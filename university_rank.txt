@@ -1,0 +1,100 @@
+university of dubuque	2.0386247830974256E-4
+university of florida	2.0386247830974256E-4
+university of rostock	2.0386247830974256E-4
+university of vermont	2.0386247830974256E-4
+howard payne university	2.0386247830974256E-4
+hawaii pacific university	2.0386247830974256E-4
+alaska pacific university	2.0386247830974256E-4
+coppin state university	2.0386247830974256E-4
+ohio state university	2.0386247830974256E-4
+valparaiso university	2.0386247830974256E-4
+transylvania university	2.0386247830974256E-4
+siena heights university	2.0386247830974256E-4
+university of baltimore	2.0386247830974256E-4
+mount mary university	2.0386247830974256E-4
+robert morris university	2.0386247830974256E-4
+mayville state university	2.0386247830974256E-4
+georgia regents university	2.0386247830974256E-4
+william penn university	2.0386247830974256E-4
+willamette university	2.0386247830974256E-4
+wright state university	2.0386247830974256E-4
+loyola marymount university	2.0386247830974256E-4
+missouri state university	2.0386247830974256E-4
+morehead state university	2.0386247830974256E-4
+mountain state university	2.0386247830974256E-4
+john carroll university	2.0386247830974256E-4
+new mexico state university	2.0386247830974256E-4
+national louis university	2.0386247830974256E-4
+francis marion university	2.0386247830974256E-4
+norfolk state university	2.0386247830974256E-4
+minot state university	2.0386247830974256E-4
+arkansas tech university	2.0386247830974256E-4
+alcorn state university	2.0386247830974256E-4
+vytautas magnus university	2.0386247830974256E-4
+kansas state university	2.0386247830974256E-4
+central state university	2.0386247830974256E-4
+university of passau	2.0386247830974256E-4
+university of south dakota	2.0386247830974256E-4
+university of maine system	2.0386247830974256E-4
+university of mumbai	2.0386247830974256E-4
+northern michigan university	2.0386247830974256E-4
+oklahoma wesleyan university	2.0386247830974256E-4
+sangju national university	2.0386247830974256E-4
+western kentucky university	2.0386247830974256E-4
+george fox university	2.0386247830974256E-4
+san jose state university	2.0386247830974256E-4
+east carolina university	2.0386247830974256E-4
+emporia state university	2.0386247830974256E-4
+santa clara university	2.0386247830974256E-4
+austin peay state university	2.0386247830974256E-4
+university of virginia	2.0386247830974256E-4
+colorado state university	2.0386247830974256E-4
+university of st. francis	2.0386247830974256E-4
+university of düsseldorf	2.0386247830974256E-4
+stony brook university	2.0386247830974256E-4
+tarleton state university	2.0386247830974256E-4
+texas lutheran university	2.0386247830974256E-4
+southern oregon university	2.0386247830974256E-4
+lambuth university	2.0386247830974256E-4
+xavier university	2.0386247830974256E-4
+wilkes university	2.0386247830974256E-4
+adelphi university	2.0386247830974256E-4
+walden university	2.0386247830974256E-4
+marmara university	2.0386247830974256E-4
+clark university	2.0386247830974256E-4
+yale university	2.0386247830974256E-4
+belhaven university	2.0386247830974256E-4
+baker university	2.0386247830974256E-4
+bethany university	2.0386247830974256E-4
+shaw university	2.0386247830974256E-4
+chubu university	2.0386247830974256E-4
+bradley university	2.0386247830974256E-4
+purdue university	2.0386247830974256E-4
+cameron university	2.0386247830974256E-4
+doshisha university	2.0386247830974256E-4
+carroll university	2.0386247830974256E-4
+multnomah university	2.0386247830974256E-4
+rowan university	2.0386247830974256E-4
+aga khan university	2.0386247830974256E-4
+naropa university	2.0386247830974256E-4
+nagoya university	2.0386247830974256E-4
+clemson university	2.0386247830974256E-4
+colgate university	2.0386247830974256E-4
+hollins university	2.0386247830974256E-4
+hofstra university	2.0386247830974256E-4
+shorter university	2.0386247830974256E-4
+wingate university	2.0386247830974256E-4
+silliman university	2.0386247830974256E-4
+judson university	2.0386247830974256E-4
+longwood university	2.0386247830974256E-4
+shepherd university	2.0386247830974256E-4
+biola university	2.0386247830974256E-4
+graceland university	2.0386247830974256E-4
+harding university	2.0386247830974256E-4
+fordham university	2.0386247830974256E-4
+lipscomb university	2.0386247830974256E-4
+lawrence university	2.0386247830974256E-4
+gonzaga university	2.0386247830974256E-4
+drake university	2.0386247830974256E-4
+oakwood university	2.0386247830974256E-4
+brandeis university	2.0386247830974256E-4
